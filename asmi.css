@@ -1,0 +1,277 @@
+.container{
+    border: 2px solid black;
+    width: 57.2rem;
+
+}
+
+.header{
+    border: 1px solid black;
+    width:57.2rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.posts{
+    border: 1px solid black;
+    width:51.2rem;
+    height: 20rem; 
+    display: flex;
+    flex-direction:column ;
+    padding: 3rem;
+    }
+
+
+.works{
+    border: 1px solid black; 
+    width:51.2rem;
+    height: 40rem;
+    padding: 3rem;
+    }
+
+
+.contact{
+    border: 1px solid black;
+    width:41rem;
+    height: 10rem; 
+    display: flex;
+    flex-direction: column;
+    padding: 8rem;
+    align-items: center;
+  
+    
+    }
+
+    .headertop{
+        border: 1px solid black;
+        width:55rem;
+        height: 3rem;
+        display: flex;
+        flex-direction: row;
+        padding: 1rem;
+    }
+
+
+    .headerbottom{
+        border: 1px solid black;
+        width:51rem;
+        height: 18.8rem;
+        display: flex;
+        flex-direction: column;
+        padding: 3rem;
+    }
+
+    .headertopitem_a{
+        border:1px solid black;
+        width:32.7rem ;
+        height: 3rem;
+
+    }
+
+    .headertopitem_b{
+        border:1px solid black;
+        width:7rem ;
+        height: 3rem;
+
+    }
+
+    .headerbottomitem_a{
+        border:1px solid black;
+        width:50rem ;
+        height: 14rem;
+        display: flex;
+        flex-direction: row;
+
+    }
+    .headerbottomitem_b{
+        border:1px solid black;
+        width:50rem ;
+        height: 5rem;
+
+    }
+
+    .headerbottom_leftpart{
+        border:1px solid black;
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .headerbottom_rigthpart{
+        border:1px solid black;
+        width: 14.78rem;
+
+        
+    }
+
+    .postsup{
+        border: 1px solid black;
+        height:3rem;
+        width: 48rem; 
+        display: flex;
+        flex-direction: row; 
+        padding: 1rem;
+    }
+
+
+    .postsbottom{
+        border: 1px solid black;
+        height: 12rem;
+        width: 48rem;  
+        display: flex;
+        flex-direction: row;
+        padding: 1rem;
+    }
+
+    .recentposts{
+        border: 1px solid black;
+        height:3rem;
+        width: 10rem;  
+    }
+
+
+    .postblank{
+        border: 1px solid black;
+        height: 3rem;
+        width: 30rem;  
+    }
+
+    .viewall{
+        border: 1px solid black;
+        height: 3rem;
+        width: 10rem;  
+    }
+
+    .post1{
+        border: 1px solid black;
+        height: 12rem;
+        width: 30rem;  
+    }
+
+    .post2{
+        border: 1px solid black;
+        height: 12rem;
+        width: 30rem;  
+    }
+
+
+    .featuredworks{
+        border: 1px solid black;
+        height:3rem;
+        width: 50rem;  
+    }
+
+    .portraits{
+        border: 1px solid black;
+        height:12rem;
+        width: 50rem; 
+        display: flex;
+        flex-direction: row; 
+    }
+
+    .portraits_left{
+        border: 1px solid black;
+        height:12rem;
+        width: 15rem;  
+    }
+    .portraits_right{
+        border:1px solid black;
+        height:12rem;
+        width: 35rem;  
+    }
+    
+    .portraits_up{
+        border:1px solid black;
+        height:3rem;
+        width: 35rem;  
+    }
+    .portraits_middle{
+        border:1px solid black;
+        height:2rem;
+        width: 35rem;  
+    }
+
+    .portraits_down{
+        border:1px solid black;
+        height:6.6rem;
+        width: 35rem;  
+    }
+
+    .contact_up{
+        border:1px solid black;
+        height:8rem;
+        width: 40rem;  
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    
+    }
+
+    .contact_down{
+        border:1px solid black;
+        height:4rem;
+        width: 40rem;  
+    
+    }
+
+    .icon{
+
+        border:1px solid black;
+        height:4rem;
+        width: 4rem;  
+
+    }
+
+    .image{
+        height: 13rem;
+        width: 13rem;
+        border-radius: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+
+/* .intro{
+    font-family: 'Heebo', sans-serif;
+    font-size: 2rem; 
+    vertical-align:Top;
+    font-weight: bold;
+    }
+    
+    */
+
+
+
+    .intro{
+        border: 1px solid black;
+        height: 6.5rem;
+        width: 35rem;
+        
+    }
+
+
+    .introfont{
+        font-family: 'Heebo', sans-serif;
+        font-size: 1.5rem; 
+        vertical-align:Top;
+        font-weight: bolder;
+
+    }
+
+    .about{
+        border: 1px solid black;
+        height: 5.5rem;
+        width: 35rem;
+    }
+
+
+    .button{
+        border: 1px solid black;
+        height: 2rem;
+        width: 35rem;
+    }
